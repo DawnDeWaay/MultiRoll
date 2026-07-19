@@ -1,4 +1,4 @@
-# MultiRoll, created by Don DeWaay III
+# MultiRoll, created by Dawn DeWaay III
 
 Small react project to make dice rolling a bit easier in TTRPGs
 
